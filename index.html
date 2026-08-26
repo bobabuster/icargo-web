@@ -16,23 +16,42 @@
         
 
         <div class="relative aspect-[1284/477]">
-            <img src="./hero-image.jpg" alt="hero image"
+            <img src="./figma-reference/renderings/hero-image.jpg" alt="hero image"
                 class="absolute h-full w-full object-cover">
-            <div class="absolute w-[700px] h-[47px] left-[1000px] top-[190px] z-10">
-                <p class="font-['Crimson_Text',serif] text-[40px] font-normal text-white">
-                    Reliable Freight & Logistics Solutions.
-                </p>
-            </div>
+            <p class="absolute z-10 inset-0 pt-[10%] pr-[15%] flex items-start justify-end font-['Crimson_Text',serif] text-[clamp(20px,3vw,40px)] font-normal text-white">
+                Reliable Freight & Logistics Solutions.
+            </p>
         </div>
 
-        <div class="h-[1796px] bg-[linear-gradient(180deg,#5C7DA7_0%,#D8A29D_80%)]">
-            <div class="relative h-[970px] font-['Source_Serif_Pro',serif] text-white drop-shadow-[0_4px_4px_rgba(0,0,0,0.25)]">
-                <h2 class="absolute w-[321px] h-[79px] left-[65px] top-[62px] text-[64px]">Services</h2>
-                <h3 class="absolute w-[631px] h-[50px] left-[100px] top-[217px] text-[40px]">Ocean and Air Freight Forwarding</h3>
-                <img src="./icons/plane.svg" alt="plane icon">
-                <h3 class="absolute w-[594px] h-[50px] left-[100px] top-[403px] text-[40px]">Domestic Shipping & Trucking</h3>
-                <h3 class="absolute w-[383px] h-[50px] left-[100px] top-[595px] text-[40px]">Customs Clearance</h3>
-                <h3 class="absolute w-[394px] h-[50px] left-[100px] top-[766px] text-[40px]">Logistics Consulting</h3>
+        <div class="bg-[linear-gradient(180deg,#5C7DA7_0%,#D8A29D_100%)]">
+            <div class="relative px-16 pt-16 font-['Source_Serif_Pro',serif] text-white drop-shadow-[0_4px_4px_rgba(0,0,0,0.25)]">
+                <h2 class="text-[64px]">Services</h2>
+
+                <div class="divide-y-2 divide-white/80">
+                    <div class="flex items-center justify-between">
+                        <h3 class="text-2xl md:text-4xl">Ocean and Air Freight Forwarding</h3>
+                        <div class="flex items-center gap-64 shrink-0 mr-64 py-10">
+                            <img src="./icons/plane.svg" alt="plane icon" class="w-40">
+                            <img src="./icons/ship.svg" alt="ship icon" class="w-40">
+                        </div>
+                    </div>
+                    
+                    <div class="flex items-center justify-between py-10">
+                        <h3 class="text-[40px]">Domestic Shipping & Trucking</h3>
+                        <img src="./icons/truck.svg" alt="truck icon" class="w-40 mr-115">
+                    </div>
+                    
+                    <div class="flex items-center justify-between py-10">
+                        <h3 class="text-[40px]">Customs Clearance</h3>
+                        <img src="./icons/key-round.svg" alt="key icon" class="w-40 mr-115">
+                    </div>
+                    
+                    <div class="flex items-center justify-between py-10">
+                        <h3 class="text-[40px]">Logistics Consulting</h3>
+                        <img src="./icons/handshake.svg" alt="handshake icon" class="w-40 mr-115">
+                    </div>
+                </div>
+
             </div>
 
             <div>
