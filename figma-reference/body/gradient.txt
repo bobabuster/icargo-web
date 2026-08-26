@@ -1,0 +1,11 @@
+/* body */
+
+width: 1285px;
+height: 1796px;
+
+background: linear-gradient(180deg, #5C7DA7 0%, #D8A29D 66.83%);
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;

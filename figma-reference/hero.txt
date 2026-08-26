@@ -1,0 +1,30 @@
+/* hero image */
+
+width: 1284px;
+height: 477px;
+
+background: url(anastasios-antoniadis-AMXFr97d00c-unsplash.jpg);
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* slogan */
+
+position: absolute;
+width: 555px;
+height: 47px;
+left: 588px;
+top: 107px;
+
+font-family: 'Crimson Text';
+font-style: normal;
+font-weight: 600;
+font-size: 36px;
+line-height: 47px;
+/* identical to box height */
+
+color: #FFFFFF;
+

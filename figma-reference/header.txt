@@ -1,0 +1,60 @@
+/* header */
+
+width: 1280px;
+height: 159px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* company title */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+
+position: absolute;
+width: 906px;
+left: calc(50% - 906px/2 + 103px);
+top: 27px;
+bottom: 23px;
+
+
+
+/* Company Title */
+
+width: 906px;
+height: 123px;
+
+font-family: 'Lora';
+font-style: normal;
+font-weight: 400;
+font-size: 96px;
+line-height: 123px;
+/* identical to box height */
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* icargoLogo 1 */
+
+position: absolute;
+width: 126px;
+left: 95px;
+top: 20px;
+bottom: 13px;
+
+background: url(icargoLogo.png);
