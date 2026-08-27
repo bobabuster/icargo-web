@@ -1,0 +1,54 @@
+/* About */
+
+position: absolute;
+height: 610px;
+left: -1px;
+right: 1px;
+top: 875px;
+
+
+
+/* about text */
+
+position: absolute;
+height: 451px;
+left: 47px;
+right: 47px;
+bottom: 58px;
+
+
+
+/* Founded in 2015, iCargo Logistics Inc. is a licensed International Air and Ocean Freight Forwarder in the United States and a proud NVOCC member. With more than a decade of industry experience, we have built a strong global network, providing reliable and efficient transportation and logistics solutions to and from major destinations worldwide. Our comprehensive services cover all modes of freight transportation, ensuring seamless cargo movement across international markets. Our mission is to deliver comprehensive, reliable, and cost-effective transportation and logistics solutions that consistently exceed our customers’ expectations. We accomplish this through meticulous operational planning, disciplined execution, and the collective expertise of our dedicated professionals. Supported by a robust global network and continuous communication with our international partners, we ensure the seamless coordination of supply chain activities and the efficient movement of cargo worldwide. Our commitment to service excellence, operational integrity, and customer satisfaction remains at the core of everything we do. */
+
+position: absolute;
+height: 420px;
+left: 15px;
+right: 15px;
+bottom: -29px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+
+
+
+/* About */
+
+position: absolute;
+width: 203px;
+height: 43px;
+left: 66px;
+top: 58px;
+
+font-family: 'Source Serif Pro';
+font-style: normal;
+font-weight: 400;
+font-size: 64px;
+line-height: 80px;
+
+color: #FFFFFF;
+
