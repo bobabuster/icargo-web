@@ -1,0 +1,10 @@
+.git
+.gitignore
+.assetsignore
+node_modules
+src
+package.json
+package-lock.json
+wranger.jsonc
+figma-reference/figma-css
+figma-reference/renderings/Desktop.png
